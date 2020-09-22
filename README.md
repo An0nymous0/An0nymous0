@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=qishibo&show_icons=true&theme=radical&hide_title=1)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 <!--
 **An0nymous0/An0nymous0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
